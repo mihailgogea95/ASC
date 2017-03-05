@@ -1,2 +1,2 @@
 # ASC
-Arhitectura sistemelor de calcul
+Laboratories and homeworks
